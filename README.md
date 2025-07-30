@@ -7,12 +7,6 @@ Os serviços incluídos nesta aula são:
 - Back-end: servidor Node.js com Express;
 - Front-end (dois projetos) – aplicações React com TypeScript.
 
-Cada projeto está em uma pasta separada:
-
-- [`exemplo-um`](./exemplo-um): exemplo básico de um servidor Node.js com TypeScript;
-- [`exemplo-dois`](./exemplo-dois): exemplo básico de um servidor Node.js.
-
-
 ### 📂 Estrutura da pasta `app/`
 ```
 app/
