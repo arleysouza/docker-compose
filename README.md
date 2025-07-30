@@ -75,7 +75,7 @@ Parar os serviços:
 docker compose down
 ```
 
-📌 **Observações**
+### 📌 Observações
 
 - Os arquivos Dockerfile das aplicações front-end utilizam Vite, portanto, é necessário garantir que o `vite.config.ts` esteja configurado para permitir conexões externas
 - O banco de dados PostgreSQL é inicializado com o script `init.sql` contido na pasta `db/`.
